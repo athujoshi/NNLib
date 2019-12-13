@@ -13,12 +13,12 @@ Available Loss Functions : Mean Squared Error, Multi Class Cross Entropy.
 import nn
 
 k=nn.nn()
-k.add_layer(no_of_neurons=4,dim=2,activation="sigmoid")
-k.add_layer(no_of_neurons=4,activation="sigmoid")
-k.add_layer(no_of_neurons=2,activation="softmax")
 
-Available Activation Functions : Sigmoid, ReLu and Softmax
-Available Loss Functions : Mean Squared Error, Multi Class Cross Entropy
+k.add_layer(no_of_neurons=4,dim=2,activation="sigmoid")
+
+k.add_layer(no_of_neurons=4,activation="sigmoid")
+
+k.add_layer(no_of_neurons=2,activation="softmax")
 
 k.define_loss_function("cross_entropy")
 
