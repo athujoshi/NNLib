@@ -1,9 +1,12 @@
 # NNLib
 
 ANN Library for Regression and Classification created from scratch using only NumPy.
-Project created to understand modular implementation of BackPropogation in a library for Regression and Classification problems
-Available Activation Functions : Sigmoid, ReLu and Softmax
-Available Loss Functions : Mean Squared Error, Multi Class Cross Entropy
+
+Project created to understand modular implementation of BackPropogation in a library for Regression and Classification problems.
+
+Available Activation Functions : Sigmoid, ReLu and Softmax.
+
+Available Loss Functions : Mean Squared Error, Multi Class Cross Entropy.
 
 #Sample Implementation
 
