@@ -2,7 +2,7 @@
 
 ANN Library for Regression and Classification created from scratch using only NumPy.
 
-Project created to understand modular implementation of BackPropogation in a library for Regression and Classification problems.
+Project created to understand modular implementation of BackPropogation in a library.
 
 Implemented Activation Functions : Sigmoid, ReLu and Softmax.
 
